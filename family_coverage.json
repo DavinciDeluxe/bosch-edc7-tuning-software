@@ -1,0 +1,104 @@
+{
+  "family": "Bosch EDC7",
+  "slug": "bosch-edc7",
+  "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
+  "official_url": "https://www.davincideluxe.fr/bosch-edc7-tuning-software",
+  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "matched_variants_count": 54,
+  "brands": {
+    "MAN TRUCKS": [
+      "EDC7",
+      "EDC7C1",
+      "EDC7C3-6",
+      "EDC7C32",
+      "EDC7U",
+      "EDC7U31"
+    ],
+    "AGRALE": [
+      "EDC7UC3",
+      "EDC7UC31-14"
+    ],
+    "FENDT": [
+      "EDC7",
+      "EDC7UC31-EDC16U40"
+    ],
+    "SCANIA": [
+      "EDC7C32"
+    ],
+    "CASE IH": [
+      "EDC7",
+      "EDC7C1-C2",
+      "EDC7U1",
+      "EDC7U31",
+      "EDC7UC31-13"
+    ],
+    "INTERNATIONAL": [
+      "EDC7C32"
+    ],
+    "AHWI": [
+      "EDC7UC31-12"
+    ],
+    "DAF": [
+      "EDC7",
+      "EDC7C1",
+      "EDC7C3",
+      "EDC7C32"
+    ],
+    "UD TRUCKS": [
+      "EDC7UC31"
+    ],
+    "NEW HOLLAND": [
+      "EDC7",
+      "EDC7C1-C2",
+      "EDC7U1",
+      "EDC7U31",
+      "EDC7UC31-13"
+    ],
+    "STEYR": [
+      "EDC7",
+      "EDC7C1-C2",
+      "EDC7U1",
+      "EDC7U31",
+      "EDC7UC31-13"
+    ],
+    "FPT INDUSTRIAL": [
+      "EDC7",
+      "EDC7C1-C2",
+      "EDC7U1",
+      "EDC7U31",
+      "EDC7UC31-13"
+    ],
+    "VERMEER": [
+      "EDC7UC31"
+    ],
+    "IVECO": [
+      "EDC7",
+      "EDC7C1-C2",
+      "EDC7U1",
+      "EDC7U31",
+      "EDC7UC31-13"
+    ],
+    "VOLVO TRUCKS": [
+      "EDC7",
+      "EDC7C1-C2",
+      "EDC7UC31"
+    ],
+    "MITSUBISHI FUSO": [
+      "EDC7C4"
+    ],
+    "MASSEY FERGUSON": [
+      "EDC7UC31"
+    ],
+    "FORD TRUCKS": [
+      "EDC7",
+      "EDC7C1",
+      "EDC7UC31"
+    ],
+    "VALTRA": [
+      "EDC7UC31"
+    ],
+    "VOLKSWAGEN TRUCKS": [
+      "EDC7C32"
+    ]
+  }
+}
