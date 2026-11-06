@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Bosch EDC7 ECU Calibration Software — 24V commercial truck, agriculture & marine diesel ECU (EDC7UC31, EDC7C32) (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/bosch-edc7-tuning-software"
+repository-code: "https://github.com/DavinciDeluxe/bosch-edc7-tuning-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
