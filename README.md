@@ -1,10 +1,10 @@
-# Bosch EDC7 ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.44)
+# Bosch EDC7 ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Live ECU Page](https://img.shields.io/badge/Bosch%20EDC7-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/bosch-edc7-tuning-software)
 [![Portal .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/bosch-edc7-tuning-software)
 [![Portal .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/bosch-edc7-tuning-software)
 
-**Bosch EDC7** is 24V commercial truck, agriculture & marine inboard diesel ECU family (Iveco, MAN, DAF, Cummins, Volvo Penta). **DaVinci Deluxe Cloud Edition (v1.0.44)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Bosch EDC7 readouts**.
+**Bosch EDC7** is 24V commercial truck, agriculture & marine inboard diesel ECU family (Iveco, MAN, DAF, Cummins, Volvo Penta). **DaVinci Deluxe Cloud Edition (v1.0.45)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Bosch EDC7 readouts**.
 
 ## 📊 Live Bosch EDC7 Variants Covered Across Brands
 
@@ -21,6 +21,7 @@
 | **FORD TRUCKS** | 3 | `EDC7`, `EDC7C1`, `EDC7UC31` |
 | **AGRALE** | 2 | `EDC7UC3`, `EDC7UC31-14` |
 | **FENDT** | 2 | `EDC7`, `EDC7UC31-EDC16U40` |
+| **MITSUBISHI** | 1 | `EDC7C4` |
 | **SCANIA** | 1 | `EDC7C32` |
 | **INTERNATIONAL** | 1 | `EDC7C32` |
 | **AHWI** | 1 | `EDC7UC31-12` |
