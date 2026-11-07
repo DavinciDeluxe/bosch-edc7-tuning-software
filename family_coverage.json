@@ -1,7 +1,7 @@
 {
   "family": "Bosch EDC7",
   "slug": "bosch-edc7",
-  "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
+  "platform": "DaVinci Deluxe Cloud Edition v1.0.45",
   "official_urls": [
     "https://www.davincideluxe.fr/bosch-edc7-tuning-software",
     "https://www.davincideluxe.org/bosch-edc7-tuning-software",
@@ -12,8 +12,11 @@
     "https://www.davincideluxe.it/bosch-edc7-tuning-software",
     "https://www.aesoftech.eu/bosch-edc7-tuning-software"
   ],
-  "matched_variants_count": 54,
+  "matched_variants_count": 55,
   "brands": {
+    "MITSUBISHI": [
+      "EDC7C4"
+    ],
     "MAN TRUCKS": [
       "EDC7",
       "EDC7C1",
