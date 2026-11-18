@@ -12,29 +12,10 @@
     "https://www.davincideluxe.it/bosch-edc7-tuning-software",
     "https://www.aesoftech.eu/bosch-edc7-tuning-software"
   ],
-  "matched_variants_count": 55,
+  "matched_variants_count": 46,
   "brands": {
     "MITSUBISHI": [
       "EDC7C4"
-    ],
-    "MAN TRUCKS": [
-      "EDC7",
-      "EDC7C1",
-      "EDC7C3-6",
-      "EDC7C32",
-      "EDC7U",
-      "EDC7U31"
-    ],
-    "AGRALE": [
-      "EDC7UC3",
-      "EDC7UC31-14"
-    ],
-    "FENDT": [
-      "EDC7",
-      "EDC7UC31-EDC16U40"
-    ],
-    "SCANIA": [
-      "EDC7C32"
     ],
     "CASE IH": [
       "EDC7",
@@ -43,20 +24,23 @@
       "EDC7U31",
       "EDC7UC31-13"
     ],
-    "INTERNATIONAL": [
-      "EDC7C32"
-    ],
-    "AHWI": [
-      "EDC7UC31-12"
+    "VOLVO TRUCKS": [
+      "EDC7UC31"
     ],
     "DAF": [
       "EDC7",
       "EDC7C1",
-      "EDC7C3",
       "EDC7C32"
     ],
-    "UD TRUCKS": [
-      "EDC7UC31"
+    "MITSUBISHI FUSO": [
+      "EDC7C4"
+    ],
+    "IVECO": [
+      "EDC7",
+      "EDC7C1-C2",
+      "EDC7U1",
+      "EDC7U31",
+      "EDC7UC31-13"
     ],
     "NEW HOLLAND": [
       "EDC7",
@@ -79,37 +63,38 @@
       "EDC7U31",
       "EDC7UC31-13"
     ],
-    "VERMEER": [
-      "EDC7UC31"
+    "AGRALE": [
+      "EDC7UC3",
+      "EDC7UC31-14"
     ],
-    "IVECO": [
-      "EDC7",
-      "EDC7C1-C2",
-      "EDC7U1",
-      "EDC7U31",
-      "EDC7UC31-13"
-    ],
-    "VOLVO TRUCKS": [
-      "EDC7",
-      "EDC7C1-C2",
-      "EDC7UC31"
-    ],
-    "MITSUBISHI FUSO": [
-      "EDC7C4"
-    ],
-    "MASSEY FERGUSON": [
-      "EDC7UC31"
-    ],
-    "FORD TRUCKS": [
+    "MAN TRUCKS": [
       "EDC7",
       "EDC7C1",
-      "EDC7UC31"
+      "EDC7C3-6",
+      "EDC7C32"
+    ],
+    "SCANIA": [
+      "EDC7C32"
+    ],
+    "FENDT": [
+      "EDC7",
+      "EDC7UC31-EDC16U40"
+    ],
+    "VOLKSWAGEN TRUCKS": [
+      "EDC7C32"
     ],
     "VALTRA": [
       "EDC7UC31"
     ],
-    "VOLKSWAGEN TRUCKS": [
+    "FORD TRUCKS": [
+      "EDC7",
+      "EDC7UC31"
+    ],
+    "INTERNATIONAL": [
       "EDC7C32"
+    ],
+    "VERMEER": [
+      "EDC7UC31"
     ]
   }
 }
