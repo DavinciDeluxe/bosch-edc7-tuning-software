@@ -10,27 +10,24 @@
 
 | Brand | Bosch EDC7 Variants | Supported ECU Identifiers |
 | :--- | :---: | :--- |
-| **MAN TRUCKS** | 6 | `EDC7`, `EDC7C1`, `EDC7C3-6`, `EDC7C32`, `EDC7U`, `EDC7U31` |
 | **CASE IH** | 5 | `EDC7`, `EDC7C1-C2`, `EDC7U1`, `EDC7U31`, `EDC7UC31-13` |
+| **IVECO** | 5 | `EDC7`, `EDC7C1-C2`, `EDC7U1`, `EDC7U31`, `EDC7UC31-13` |
 | **NEW HOLLAND** | 5 | `EDC7`, `EDC7C1-C2`, `EDC7U1`, `EDC7U31`, `EDC7UC31-13` |
 | **STEYR** | 5 | `EDC7`, `EDC7C1-C2`, `EDC7U1`, `EDC7U31`, `EDC7UC31-13` |
 | **FPT INDUSTRIAL** | 5 | `EDC7`, `EDC7C1-C2`, `EDC7U1`, `EDC7U31`, `EDC7UC31-13` |
-| **IVECO** | 5 | `EDC7`, `EDC7C1-C2`, `EDC7U1`, `EDC7U31`, `EDC7UC31-13` |
-| **DAF** | 4 | `EDC7`, `EDC7C1`, `EDC7C3`, `EDC7C32` |
-| **VOLVO TRUCKS** | 3 | `EDC7`, `EDC7C1-C2`, `EDC7UC31` |
-| **FORD TRUCKS** | 3 | `EDC7`, `EDC7C1`, `EDC7UC31` |
+| **MAN TRUCKS** | 4 | `EDC7`, `EDC7C1`, `EDC7C3-6`, `EDC7C32` |
+| **DAF** | 3 | `EDC7`, `EDC7C1`, `EDC7C32` |
 | **AGRALE** | 2 | `EDC7UC3`, `EDC7UC31-14` |
 | **FENDT** | 2 | `EDC7`, `EDC7UC31-EDC16U40` |
+| **FORD TRUCKS** | 2 | `EDC7`, `EDC7UC31` |
 | **MITSUBISHI** | 1 | `EDC7C4` |
-| **SCANIA** | 1 | `EDC7C32` |
-| **INTERNATIONAL** | 1 | `EDC7C32` |
-| **AHWI** | 1 | `EDC7UC31-12` |
-| **UD TRUCKS** | 1 | `EDC7UC31` |
-| **VERMEER** | 1 | `EDC7UC31` |
+| **VOLVO TRUCKS** | 1 | `EDC7UC31` |
 | **MITSUBISHI FUSO** | 1 | `EDC7C4` |
-| **MASSEY FERGUSON** | 1 | `EDC7UC31` |
-| **VALTRA** | 1 | `EDC7UC31` |
+| **SCANIA** | 1 | `EDC7C32` |
 | **VOLKSWAGEN TRUCKS** | 1 | `EDC7C32` |
+| **VALTRA** | 1 | `EDC7UC31` |
+| **INTERNATIONAL** | 1 | `EDC7C32` |
+| **VERMEER** | 1 | `EDC7UC31` |
 
 👉 **[Open the full Bosch EDC7 guide & test your file free at https://www.davincideluxe.fr/bosch-edc7-tuning-software →](https://www.davincideluxe.fr/bosch-edc7-tuning-software)**
 
