@@ -11,33 +11,33 @@
 | Brand | Bosch EDC7 Variants | Supported ECU Identifiers |
 | :--- | :---: | :--- |
 | **CASE IH** | 5 | `EDC7`, `EDC7C1-C2`, `EDC7U1`, `EDC7U31`, `EDC7UC31-13` |
-| **IVECO** | 5 | `EDC7`, `EDC7C1-C2`, `EDC7U1`, `EDC7U31`, `EDC7UC31-13` |
 | **NEW HOLLAND** | 5 | `EDC7`, `EDC7C1-C2`, `EDC7U1`, `EDC7U31`, `EDC7UC31-13` |
 | **STEYR** | 5 | `EDC7`, `EDC7C1-C2`, `EDC7U1`, `EDC7U31`, `EDC7UC31-13` |
 | **FPT INDUSTRIAL** | 5 | `EDC7`, `EDC7C1-C2`, `EDC7U1`, `EDC7U31`, `EDC7UC31-13` |
+| **IVECO** | 5 | `EDC7`, `EDC7C1-C2`, `EDC7U1`, `EDC7U31`, `EDC7UC31-13` |
 | **DAF** | 4 | `EDC7`, `EDC7C1`, `EDC7C3`, `EDC7C32` |
 | **MAN TRUCKS** | 4 | `EDC7`, `EDC7C1`, `EDC7C3-6`, `EDC7C32` |
 | **VOLVO TRUCKS** | 3 | `EDC7`, `EDC7C1-C2`, `EDC7UC31` |
 | **AGRALE** | 2 | `EDC7UC3`, `EDC7UC31-14` |
-| **FENDT** | 2 | `EDC7`, `EDC7UC31-EDC16U40` |
 | **FORD TRUCKS** | 2 | `EDC7`, `EDC7UC31` |
+| **FENDT** | 2 | `EDC7`, `EDC7UC31-EDC16U40` |
 | **MITSUBISHI** | 1 | `EDC7C4` |
-| **UD TRUCKS** | 1 | `EDC7UC31` |
-| **MITSUBISHI FUSO** | 1 | `EDC7C4` |
-| **MASSEY FERGUSON** | 1 | `EDC7UC31` |
-| **SCANIA** | 1 | `EDC7C32` |
-| **VOLKSWAGEN TRUCKS** | 1 | `EDC7C32` |
-| **VALTRA** | 1 | `EDC7UC31` |
-| **INTERNATIONAL** | 1 | `EDC7C32` |
-| **VERMEER** | 1 | `EDC7UC31` |
-| **IVECO EUROCARGO** | 1 | `EDC7C1` |
-| **DAF CF65** | 1 | `EDC7C1` |
-| **VALTRA T151** | 1 | `EDC7UC31` |
-| **VALTRA A83** | 1 | `EDC7UC31` |
-| **VALTRA P191** | 1 | `EDC7UC31` |
-| **VALTRA N111** | 1 | `EDC7UC31` |
-| **VALTRA A83-SERIES** | 1 | `EDC7UC31` |
 | **AHWI** | 1 | `EDC7UC31-12` |
+| **DAF CF65** | 1 | `EDC7C1` |
+| **INTERNATIONAL** | 1 | `EDC7C32` |
+| **IVECO EUROCARGO** | 1 | `EDC7C1` |
+| **MASSEY FERGUSON** | 1 | `EDC7UC31` |
+| **MITSUBISHI FUSO** | 1 | `EDC7C4` |
+| **UD TRUCKS** | 1 | `EDC7UC31` |
+| **SCANIA** | 1 | `EDC7C32` |
+| **VALTRA** | 1 | `EDC7UC31` |
+| **VALTRA A83-SERIES** | 1 | `EDC7UC31` |
+| **VALTRA A83** | 1 | `EDC7UC31` |
+| **VALTRA N111** | 1 | `EDC7UC31` |
+| **VALTRA P191** | 1 | `EDC7UC31` |
+| **VALTRA T151** | 1 | `EDC7UC31` |
+| **VERMEER** | 1 | `EDC7UC31` |
+| **VOLKSWAGEN TRUCKS** | 1 | `EDC7C32` |
 
 👉 **[Open the full Bosch EDC7 guide & test your file free at https://www.davincideluxe.fr/bosch-edc7-tuning-software →](https://www.davincideluxe.fr/bosch-edc7-tuning-software)**
 
